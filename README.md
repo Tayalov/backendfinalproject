@@ -57,10 +57,12 @@ English:
 •	Backend & Frontend: Deployed together on Render using Node.js deployment.
 •	Environment Variables: .env file stores MONGODB_URI and JWT_SECRET.
 •	 URL: https://github.com/Tayalov/backendfinalproject.git
+ https://backendfinalproject-5.onrender.com
+
 •	Postman Collection: Final tests cover all endpoints, including authentication, CRUD, and RBAC actions.
  <img width="974" height="384" alt="image" src="https://github.com/user-attachments/assets/30632386-ab26-4597-83af-78f167ea8eec" />
 
-6. Challenges and Solutions 
+7. Challenges and Solutions 
 English:
 •	Challenge: Ensuring RBAC security while keeping dynamic frontend functional
 •	Solution: Created middleware functions and tested all endpoints with different roles.
